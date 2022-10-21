@@ -3,10 +3,10 @@
 
 #include <stdarg.h>
 /**
-* struct print - structure
-* @t: type
-* @f: function
-*/
+ * struct print - structure for printing various types
+ * @t: type to print
+ * @f: function to print
+ */
 typedef struct print
 {
 	char *t;
